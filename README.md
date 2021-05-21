@@ -7,3 +7,5 @@ The dataset is obtained through this website: https://archive.ics.uci.edu/ml/dat
 The premises of the target is to predict whether a customer will subscribe to a term deposite based on the features given and the method was done via phone call.
 
 The features consist of numerical and categorical data, the categorical data must first be converted into numerical data to proceed.
+
+Work in Progress
